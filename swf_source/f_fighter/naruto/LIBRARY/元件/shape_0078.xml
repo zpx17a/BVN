@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/shape_0078" itemID="64787f21-000030e1" sourceFlashFilepath="../naruto_sennin/naruto_sennin.xfl" sourceLibraryItemHRef="元件/shape_073" sourceLastModified="1685600111" symbolType="graphic" lastModified="1685618465" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="shape_0078">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1115 1280|-10 1280!-10 1280|-10 -5!-10 -5|1115 -5!1115 -5|1115 1280"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

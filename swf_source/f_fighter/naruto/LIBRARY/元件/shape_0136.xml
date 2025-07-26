@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/shape_0136" itemID="64787f21-00003122" sourceFlashFilepath="../naruto_sennin/naruto_sennin.xfl" sourceLibraryItemHRef="元件/shape_097" sourceLastModified="1685600111" symbolType="graphic" lastModified="1685618465" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="shape_0136" currentFrame="4">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="91" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_0137" selected="true" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix tx="30.25" ty="42.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="13.95" y="21.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

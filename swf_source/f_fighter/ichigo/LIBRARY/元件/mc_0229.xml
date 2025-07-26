@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_0229" itemID="6478402f-00004a03" sourceFlashFilepath="../ichigo_zero/ichigo_zero.xfl" sourceLibraryItemHRef="元件/mc_037" sourceLastModified="1649124898" lastModified="1685602351" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="mc_0229">
+      <layers>
+        <DOMLayer name="图层 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_0232" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="39" ty="16"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="156" y="21"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

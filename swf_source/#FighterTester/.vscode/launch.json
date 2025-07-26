@@ -1,0 +1,18 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "swf",
+            "request": "launch",
+            "name": "Launch SWF",
+            "profile": "desktop",
+            "preLaunchTask": "ActionScript: compile debug - asconfig.json",
+            "program": "${workspaceFolder}/src/FighterTester-app.xml",
+            "rootDirectory": "${workspaceFolder}/../../swf_output",
+            "runtimeExecutable": "D:/Program Files/Adobe/Adobe Flash Builder 4.7 (64 Bit)/eclipse/plugins/com.adobe.flash.compiler_4.7.0.349722/AIRSDK/bin/adl.exe"
+        }
+    ]
+}

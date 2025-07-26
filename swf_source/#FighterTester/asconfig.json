@@ -1,0 +1,24 @@
+{
+	"compilerOptions": {
+		"output": "bin-release-temp/FighterTester.swf",
+		"source-path": [
+			"src",
+			"res",
+			"libs"
+		],
+		"library-path": [
+			"swc"
+		]
+	},
+	"files": [
+		"src/FighterTester.as"
+	],
+	"mainClass": "FighterTester",
+	"application": "src/FighterTester-app.xml",
+	"additionalOptions": "-locale en_US\r\n-use-network=false\r\n-use-gpu=true\r\n-optimize=true\r\n-omit-trace-statements=true",
+	"airOptions": {
+		"output": "FighterTester.air"
+	},
+	"type": "app",
+	"config": "air"
+}

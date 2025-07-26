@@ -1,0 +1,34 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_001" itemID="6478bcd4-00000245" lastModified="1685634260">
+  <timeline>
+    <DOMTimeline name="mc_001">
+      <layers>
+        <DOMLayer name="图层 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FF0000"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!140 70[140 99 120 120!120 120[99 140 70 140!70 140[42 140 21 120!21 120[0 99 0 70!0 70[0 42 21 21!21 21[42 0 70 0!70 0[99 0 120 21!120 21[140 42 140 70"/>
+                    <Edge cubics="!21 21(21,21;35,7 51,0 70,0q21 21Q42 0q70 0)70,0;"/>
+                    <Edge cubics="!70 0(;90,0 106,7 120,21q70 0Q99 0q120 21)120,21;"/>
+                    <Edge cubics="!70 140(;51,140 35,133 21,120q70 140Q42 140q21 120)21,120;"/>
+                    <Edge cubics="!140 70(140,70;140,90 134,106 120,120q140 70Q140 99q120 120);"/>
+                    <Edge cubics="!120 120(;106,133 90,140 70,140q120 120Q99 140q70 140);"/>
+                    <Edge cubics="!21 120(;7,106 0,90 0,70q21 120Q0 99q0 70);"/>
+                    <Edge cubics="!0 70(;0,51 7,35 21,21q0 70Q0 42q21 21);"/>
+                    <Edge cubics="!120 21(;134,35 140,51 140,70q120 21Q140 42q140 70);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

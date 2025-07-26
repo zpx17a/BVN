@@ -1,0 +1,53 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/mc_049" itemID="64788ebb-00000bb9" lastModified="1685622459">
+  <timeline>
+    <DOMTimeline name="mc_049">
+      <layers>
+        <DOMLayer name="图层 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_509"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="7" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_428"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="7" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_429"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17" duration="7" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_430"/>
+                <DOMBitmapInstance libraryItemName="图片/picture_428"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_431"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="26" duration="328" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="图片/picture_432"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="354" duration="5" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="图片/picture_432"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="359" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="图片/picture_433"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

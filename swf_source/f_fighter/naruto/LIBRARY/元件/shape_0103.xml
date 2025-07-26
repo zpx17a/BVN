@@ -1,0 +1,56 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="元件/shape_0103" itemID="64787f21-000030ff" sourceFlashFilepath="../naruto_sennin/naruto_sennin.xfl" sourceLibraryItemHRef="元件/shape_112" sourceLastModified="1685600111" symbolType="graphic" lastModified="1685618465" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="shape_0103" currentFrame="11" guides='&lt;guidelines&gt;&lt;guideline direction="h"&gt;55&lt;/guideline&gt;&lt;/guidelines&gt;'>
+      <layers>
+        <DOMLayer name="图层 3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" duration="21" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/mc_0128" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="0.84637451171875" d="0.84637451171875" tx="15.1" ty="2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="39.05" y="40.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 5" color="#4FFFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="21" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_0104" symbolType="graphic" loop="play once">
+                  <matrix>
+                    <Matrix a="0.468780517578125" d="0.468780517578125" tx="-7.1" ty="13"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="133" y="73.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="图层 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" duration="21" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="元件/shape_0105" symbolType="graphic" firstFrame="41" loop="play once">
+                  <matrix>
+                    <Matrix tx="36.75" ty="14.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="117.95" y="52"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
